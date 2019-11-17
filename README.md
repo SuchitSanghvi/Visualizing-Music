@@ -1,5 +1,7 @@
 # Visualizing-Music
 
+![alt text](https://media.tenor.com/images/cc0d2d9170144cfb79a6c8e2aa270aa0/tenor.gif "Logo Title Text 1")
+
 ## Project Description
 Have you ever found yourself in a classroom or an office trying to concentrate on your work but can’t get rid of a song stuck in your head? Or maybe getting chills when you listen to a specific song? If not these, you would have definitely found yourself delving into memories of someone or something while listening to a particular song, What causes these phenomena? How does it work? Why does certain songs become popular?
 
